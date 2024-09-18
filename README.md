@@ -1,3 +1,22 @@
+# Assignment 1
+
+## Purpose
+
+- This assignment will demonstrate your knowledge of creating a React Native application.
+- It will assess how well you can navigate to different screens using the methods to create a tab navigation.
+- You will be assessed on adding icons to your tabs
+
+##Instructions
+
+1. You must create a React Native / Expo application
+2. Your application must have a tab navigation with three pages.
+   - Home
+   - Products
+   - Contact
+3. All pages must have content on the page. Example: images, text, headers, buttons, etc.
+4. Style the pages using the styling shown in class
+5. This must run in Expo and on an Android Emulator
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
